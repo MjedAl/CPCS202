@@ -1,0 +1,296 @@
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+
+	Wrong Selection of Service Type!
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Book
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: W
+
+	Wrong Selection of clinic... try again!
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: D
+
+	Enter the name (first and last): AHMAD ALZAHRANI
+	Enter the national ID number: 1234560
+	The appointment will be at 10:00 AM
+	Press 1 to confirm, 2 to cancel : 1
+
+
+			-------------------------------------------------
+			    Information Details for Booking Appointment
+			-------------------------------------------------
+
+Name                    : AHMAD ALZAHRANI             National ID Number         : 1234560
+Clinic                  : DENTISTRY                   Appointment Time           : 10 AM
+Appointment fee         : 150 SR
+
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Book
+
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: D
+
+	Enter the name (first and last): SUHEB TARIQ
+	Enter the national ID number: 1464768
+	The appointment will be at 11:00 AM
+	Press 1 to confirm, 2 to cancel : 2
+
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Book
+
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: D
+
+	Enter the name (first and last): DIYA ALHAMRANI
+	Enter the national ID number: 1678900
+	The appointment will be at 11:00 AM
+	Press 1 to confirm, 2 to cancel : 1
+
+
+			-------------------------------------------------
+			    Information Details for Booking Appointment
+			-------------------------------------------------
+
+Name                    : DIYA ALHAMRANI             National ID Number          : 1678900
+Clinic                  : DENTISTRY                   Appointment Time           : 11 AM
+Appointment fee         : 150 SR
+
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Book
+
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: D
+
+	Enter the name (first and last): YASIR ALMALKI
+	Enter the national ID number: 1779900
+	The appointment will be at 12:00 PM
+	Press 1 to confirm, 2 to cancel : 1
+
+
+			-------------------------------------------------
+			    Information Details for Booking Appointment
+			-------------------------------------------------
+
+Name                    : YASIR ALMALKI             National ID Number           : 1779900
+Clinic                  : DENTISTRY                   Appointment Time           : 12 PM
+Appointment fee         : 150 SR
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Book
+
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: S
+
+	Enter the name (first and last): KHALID SALEM
+	Enter the national ID number: 1662237
+	The appointment will be at 09:30 AM
+	Press 1 to confirm, 2 to cancel : 1
+
+
+			-------------------------------------------------
+			    Information Details for Booking Appointment
+			-------------------------------------------------
+
+Name                    : KHALID SALEM             National ID Number          : 1662237
+Clinic                  : SURGERY                   Appointment Time           : 09:30 AM
+Appointment fee         : 3000 SR
+
+
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-------------------------------------------
+
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Add
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: R
+
+	Enter the name (first and last): OSAMA JAMAL
+	Enter your national ID number: 1005309
+	Enter your age: 19
+	Enter your mobile number (###-###-####):  096-324-7765
+	Enter your weight in Kilogram: 78
+	Enter your height in Centimeter: 125
+
+
+			-------------------------------------------------
+			    Information Details for Adding Patient
+			-------------------------------------------------
+
+Name                    : OSAMA JAMAL                 National ID Number         : 1005309
+Age                     : 19                          Phone number               : 096-324-7765
+Clinic                  : RADIOLOGY                   Weight                     : 78.00 kg
+BMI                     : Obese                       Height                     : 125.00 cm
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: Add
+
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: Z
+
+	Wrong Selection of clinic... try again!
+
+	
+	-------------------------------------------------
+	DEPARTMENT: please select the correct department:
+	-------------------------------------------------
+	Enter I or i for ICU:
+	Enter R or r for Radiology:
+        Enter S or s for Surgery:
+	Enter D or d for Dentistry:
+Enter your Choice: S
+
+	Enter the name (first and last): ABDUL RAZAK
+	Enter your national ID number: 1323458
+	Enter your age: 40
+	Enter your mobile number (###-###-####):  054-567-0987
+	Enter your weight in Kilogram: 72
+	Enter your height in Centimeter: 180
+
+
+			-------------------------------------------------
+			    Information Details for Adding Patient
+			-------------------------------------------------
+
+Name                    : ABDUL RAZAK                 National ID Number         : 1323458
+Age                     : 40                          Phone number               : 054-567-0987
+Clinic                  : SURGERY                     Weight                     : 72.00 kg
+BMI                     : Overweight                  Height                     : 180.00 cm
+
+---------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: NewAppointment
+
+	Wrong Selection of Service Type!
+
+
+--------------------------------------------------------------------------------------------------
+---------------------------Redirect to the main menu-----------------------------------------------
+
+----------------------------------------------------------------
+	Welcome to the Jeddah National Hospital Administration
+----------------------------------------------------------------
+	Enter "Book" to book a new appointment
+	Enter "Add" to add a new patient
+	Enter "Exit" to exit the program
+Enter your Choice: exit

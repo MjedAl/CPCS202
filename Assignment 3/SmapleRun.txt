@@ -1,0 +1,79 @@
+__________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+		************************************************
+		Welcome to the Numbering System Conversion Quiz!
+		************************************************
+
+The quiz consists of 8 random questions on converting between Decimal, Binary, 
+and Hexadecimal numbers. You have a maximum number of 3 trials per question.
+
+Please enter 1 to start the quiz or 0 to exit: 1
+
+Please enter the equivalent Hexadecimal number of 123: 7B
+
+	Correct Answer!
+
+Please enter the equivalent Hexadecimal number of 45: 2D
+
+	Correct Answer!
+
+Please enter the equivalent Binary number of 8: 1000
+
+	Correct Answer!
+
+Please enter the equivalent Binary number of 171: 10101011
+
+	Correct Answer!
+
+Please enter the equivalent Decimal number of 7F: 129
+
+	Wrong Answer! 
+
+Please enter the equivalent Decimal number of 7F: 128
+
+	Wrong Answer! 
+
+Please enter the equivalent Decimal number of 7F: 126
+
+	Sorry, you have exceeded the maximum number of trials for this question!
+
+Please enter the equivalent Decimal number of 5D: 93
+
+	Correct Answer!
+
+Please enter the equivalent Decimal number of 11110100: 243
+
+	Wrong Answer! 
+
+Please enter the equivalent Decimal number of 11110100: 244
+
+	Correct Answer!
+
+Please enter the equivalent Decimal number of 00111000: 56
+
+	Correct Answer!
+
+		
+		************************************
+		Time taken to complete the quiz: 2.5 minutes
+		Score is: 87.5%
+		Congratulations, you have passed!
+		************************************
+
+	Detailed Results:
+	---------------------
+	The equivalent Hexadecimal number of 123 is 7B: correct
+	The equivalent Hexadecimal number of 45 is 2D: correct
+	The equivalent Binary number of 8 is 1000: correct
+	The equivalent Binary number of 171 is 10101011: correct
+	The equivalent Decimal number of 7F is 129: wrong
+	The equivalent Decimal number of 5D is 93: correct
+	The equivalent Decimal number of 11110100 is 244: correct
+	The equivalent Decimal number of 00111000 is 56: correct
+
+
+		>> Do you want to contiune for another trial quiz (Y/N): N
+
+ 
+			
+			    *** Thank you for using this Application ***

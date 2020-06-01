@@ -1,0 +1,197 @@
+﻿Hangman Game!
+I will think of a random word.
+You'll try to guess its letters.
+Try guess correctly to avoid loses!
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        _ _ _ _ _ _ _ 
+
+
+Enter your Guess Letter: f
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        f _ _ _ _ _ _ 
+
+
+Enter your Guess Letter: o
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        f o _ _ _ _ _ 
+
+
+Enter your Guess Letter: r
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        f o r _ r _ _ 
+
+
+Enter your Guess Letter: t
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        f o r t r _ _ 
+
+
+Enter your Guess Letter: a
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        f o r t r a _ 
+
+
+Enter your Guess Letter: n
+
+
+************************************
+Your Attempt Status: 
+_____________________
+ number of wrong guess is = 0
+ number of correct guesses is = 6
+************************************
+
+
+
+
+You did it right :) , The word is:  fortran
+
+
+Do you want to play again (y / n):
+y
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: h
+
+
+Misses:  h     
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 4 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: j
+
+
+Misses:  h j    
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 3 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: r
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 3 trials left.
+Word:        r _ _ _ 
+
+
+Enter your Guess Letter: u
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 3 trials left.
+Word:        r u _ _ 
+
+
+Enter your Guess Letter: b
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 3 trials left.
+Word:        r u b _ 
+
+
+Enter your Guess Letter: a
+
+
+Misses:  h j a   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 2 trials left.
+Word:        r u b _ 
+
+
+Enter your Guess Letter: y
+
+
+************************************
+Your Attempt Status: 
+_____________________
+ number of wrong guess is = 3
+ number of correct guesses is = 4
+************************************
+
+
+
+
+You did it right :) , The word is:  ruby
+
+
+Do you want to play again (y / n):
+y
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 5 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: w
+
+
+Misses:  w     
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 4 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: r
+
+
+Misses:  w r    
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 3 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: w
+
+
+Misses:  w r w   
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 2 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: q
+
+
+Misses:  w r w q  
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+You have 1 trials left.
+Word:        _ _ _ _ 
+
+
+Enter your Guess Letter: w
+
+
+Misses:  w r w q w 
+
+
+************************************
+Your Attempt Status: 
+_____________________
+ number of wrong guess is = 5
+ number of correct guesses is = 0
+************************************
+
+
+
+
+
+
+Wrong :( ,The word was...java
+
+
+
+
+Do you want to play again (y / n):
+n
+----------------------------------------------------------
+Your final Profile status:
+____________________________
+total number of Hangman games played  = 3
+total number of won games  = 2
+total number of loss games  = 1

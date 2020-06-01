@@ -1,0 +1,289 @@
+_____________________________________________________ SAMPLE RUN _________________________________________________
+
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: national
+
+	Wrong Selection of shipment scope! 
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: exit
+			      *** Thank you for using this Application ***
+
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: nat
+************************
+Enter personal details : 
+
+	Enter the name (first and last): ali khaled
+	Enter Your Contact Number: 12345
+	Enter Your Address: jeddah
+************************
+Select Freight type
+
+	Press R or r for Road freight
+	Press A or a for Air freight
+Enter the Choice: t
+
+	Wrong Selection of Freight type!
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: int
+************************
+Enter personal details : 
+
+	Enter the name (first and last): ali qahtani
+	Enter Your Contact Number: 5678909
+	Enter Your Address: makkah
+************************
+Select Freight type
+	Press S or s for Sea freight
+	Press A or a for Air freight
+Enter the Choice: s
+Enter the weight for cargo : 0
+	Wrong input... Weight should be greater than zero
+_________________________________________ SAMPLE RUN ___________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: nat
+************************
+Enter personal details : 
+
+	Enter the name (first and last): taha ghazi
+	Enter Your Contact Number: 272727
+	Enter Your Address: taif
+************************
+Select Freight type
+
+	Press R or r for Road freight
+	Press A or a for Air freight
+Enter the Choice: a
+Enter the weight for cargo : 140
+
+	Sorry! National Air freight is not available for more than 50KGs!
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: int
+************************
+Enter personal details : 
+
+	Enter the name (first and last): rashid talha
+	Enter Your Contact Number: 2938432
+	Enter Your Address: jeddah
+************************
+Select Freight type
+	Press S or s for Sea freight
+	Press A or a for Air freight
+Enter the Choice: a
+Enter the weight for cargo : 120
+
+	Sorry! International Air freight is not available for more than 100KGs!
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: nat
+************************
+Enter personal details : 
+
+	Enter the name (first and last): raheem farouq
+	Enter Your Contact Number: 84584545
+	Enter Your Address: taif
+************************
+Select Freight type
+
+	Press R or r for Road freight
+	Press A or a for Air freight
+Enter the Choice: r
+Enter the weight for cargo : 170
+
+
+			---------------------------------------------------------
+			    Information Details for NATIONAL Shipment
+			---------------------------------------------------------
+
+===========================================================================================================================
+Name                    : RAHEEM FAROUQ               Contact Number: 84584545      Address:     taif
+
+Freight Type            : ROAD FREIGHT                
+
+					 Weight             170.0 KGs
+					 Shipment Cost      425.00
+					 Tax                21.25
+					 Insurance          15.0
+					------------------------------------
+					 Total Cost         461 SAR
+
+
+==========================================================================================================================
+			      *** Thank you for using this Application ***
+
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: nat
+************************
+Enter personal details : 
+
+	Enter the name (first and last): saleem jabir
+	Enter Your Contact Number: 338434
+	Enter Your Address: riaydh
+************************
+Select Freight type
+
+	Press R or r for Road freight
+	Press A or a for Air freight
+Enter the Choice: a
+Enter the weight for cargo : 44
+
+
+			---------------------------------------------------------
+			    Information Details for NATIONAL Shipment
+			---------------------------------------------------------
+
+===========================================================================================================================
+Name                    : SALEEM JABIR                Contact Number: 338434        Address:     riaydh
+
+Freight Type            : AIR FREIGHT                 
+
+					 Weight             44.0 KGs
+					 Shipment Cost      462.00
+					 Tax                23.10
+					 Insurance          8.0
+					------------------------------------
+					 Total Cost         493 SAR
+
+
+==========================================================================================================================
+			      *** Thank you for using this Application ***
+
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: int
+************************
+Enter personal details : 
+
+	Enter the name (first and last): ebrahim bassam
+	Enter Your Contact Number: 433434
+	Enter Your Address: jeddah
+************************
+Select Freight type
+	Press S or s for Sea freight
+	Press A or a for Air freight
+Enter the Choice: s
+Enter the weight for cargo : 148
+
+
+			---------------------------------------------------------
+			    Information Details for INTERNATIONAL Shipment
+			---------------------------------------------------------
+
+===========================================================================================================================
+Name                    : EBRAHIM BASSAM              Contact Number: 433434        Address:     jeddah
+
+Freight Type            : SEA FREIGHT                 
+
+					 Weight             148.0 KGs
+					 Shipment Cost      592.00
+					 Tax                38.48
+					 Insurance          50.0
+					------------------------------------
+					 Total Cost         680 SAR
+
+
+==========================================================================================================================
+			      *** Thank you for using this Application ***
+
+_____________________________________________________ SAMPLE RUN ______________________________________________________
+run:
+------------------------------------------------------------
+		Welcome to Red Sea Logistics Cargo Rate System
+------------------------------------------------------------
+	Enter "Nat" for National Cargo
+	Enter "Int" for International  Cargo
+	Enter "Exit" for Exiting the Program
+Enter the Choice: int
+************************
+Enter personal details : 
+
+	Enter the name (first and last): ali jamal
+	Enter Your Contact Number: 344343
+	Enter Your Address: jeddah
+************************
+Select Freight type
+	Press S or s for Sea freight
+	Press A or a for Air freight
+Enter the Choice: s
+Enter the weight for cargo : 65000
+
+
+			---------------------------------------------------------
+			    Information Details for INTERNATIONAL Shipment
+			---------------------------------------------------------
+
+===========================================================================================================================
+Name                    : ALI JAMAL                   Contact Number: 344343        Address:     jeddah
+
+Freight Type            : SEA FREIGHT                 
+
+					 Weight             65000.0 KGs
+					 Shipment Cost      6250.00
+					 Tax                500.00
+					 Insurance          450.0
+					 No of container(s) 3
+					------------------------------------
+					 Total Cost         21600 SAR
+
+
+==========================================================================================================================
+			      *** Thank you for using this Application ***
